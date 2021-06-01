@@ -1,0 +1,23 @@
+Calculate Binary + 10101010 11001100
+Calculate Binary - 10101010 11001100 
+Calculate Binary / 10101010 11001100 
+Calculate Binary * 10101010 11001100
+
+Convert Binary to Decimal 10101010
+Convert Decimal to Binary 170
+
+Calculate Hexadecimal + 8AB B78 
+Calculate Hexadecimal - 8AB B78 
+Calculate Hexadecimal / 8AB B78 
+Calculate Hexadecimal * 8AB B78
+
+Convert Hexadecimal to Decimal DAD
+Convert Decimal to Hexadecimal 170
+
+Convert Data Unit to kilobits 500
+
+Calculate Download/Upload Time 500 Gigabytes 5 Mbit/s
+
+Calculate Website Bandwidth 5000 per day 500 Megabytes 2
+
+Convert Monthly Usage to Bandwidth 5000 terabytes 4 bit/s
